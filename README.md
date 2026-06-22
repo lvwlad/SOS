@@ -51,8 +51,6 @@
 | dsniff    | (arpspoof, dnsspoof) | Альтернативный спуфинг    |
 | tcpdump   | —             | Анализ трафика                   |
 
-> ⚠️ Перед сдачей уточнить точные версии пакетов на стенде: `rpm -q freeipa-server sssd krb5-libs bind`
-
 ## Эксперименты
 
 | № | Файл | Описание | MITRE ATT&CK |
